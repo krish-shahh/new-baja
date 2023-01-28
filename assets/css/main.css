@@ -1905,7 +1905,7 @@ header p {
 }
 
 header.major> :last-child {
-  border-bottom: solid 3px #FFCB05;
+  border-bottom: solid 3px #cc0000;
   display: inline-block;
   margin: 0 0 2em 0;
   padding: 0 0.75em 0.5em 0;
@@ -2462,7 +2462,7 @@ ul.contact li a {
 /* TODO */
 ul.todo {
   background: #FFCB0524;
-  border: solid 1px #FFCB05;
+  border: solid 1px #cc0000;
   border-radius: 0.375em;
   color: #2f3337;
   list-style: none;
@@ -2471,7 +2471,7 @@ ul.todo {
 
 ul.todo li {
   text-decoration: none;
-  border-top: solid 1px #FFCB05;
+  border-top: solid 1px #cc0000;
   margin: 1.2em 0 0 0;
   padding: 1.2em 0 0 3em;
   position: relative;
@@ -3623,7 +3623,7 @@ button:disabled,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #FFCB05;
+  border-bottom: solid 5px #cc0000;
   padding: 6em 0 1em 0;
   position: relative;
 }
